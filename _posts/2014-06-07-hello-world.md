@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello world
+title: Welcome!
 ---
 
-Replace this post with an introduction to your MapTime meetup! Posts
-are written in [Markdown](https://guides.github.com/features/mastering-markdown/).
+We have just started our MaptimeCPS chapter. More information on upcoming meetups soon!<br>
+Começamos recentemente o nosso MaptimeCPS. Mais informações sobre encontros em breve!
